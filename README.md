@@ -2,8 +2,6 @@
 
 Monitors a network interface for IP addresses changes and restarts the `:net_kernel`.
 
-This application works bet
-
 ## Installation
 This project works best with
 [bootloader](https://github.com/nerves-project/bootloader), so add both it and
